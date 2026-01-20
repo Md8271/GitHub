@@ -1,0 +1,4 @@
+git autoconfig
+gitlens
+GitHub Pull Requests
+git graph
